@@ -1,0 +1,211 @@
+c++, a language
+cstring, a type
+memchr, a cstring function
+memcmp, a cstring function
+memcpy, a cstring function
+memmove, a cstring function
+memset, a cstring function
+strcat, a cstring function
+strchr, a cstring function
+strcmp, a cstring function
+strcoll, a cstring function
+strcpy, a cstring function
+strcspn, a cstring function
+strerror, a cstring function
+strlen, a cstring function
+strncat, a cstring function
+strncmp, a cstring function
+strncpy, a cstring function
+strpbrk, a cstring function
+strrchr, a cstring function
+strspn, a cstring function
+strstr, a cstring function
+strtok, a cstring function
+strxfrm, a cstring function
+array, a container
+deque, a container
+list, a container
+map, a container
+queue, a container
+stack, a container
+unordered_map, a container
+unordered_set, a container
+vector, a container
+begin, a container iterator function
+end, a container iterator function
+rbegin, a container iterator function
+rend, a container iterator function
+cbegin, a container iterator function
+cend, a container iterator function
+crbegin, a container iterator function
+crend, a container iterator function
+size, a container function
+max_size, a container function
+empty, a container function
+operator[], a container function
+at, a container function
+front, a container function
+back, a container function
+data, a container function
+fill, a container function
+swap, a container function
+get (array), a container function
+shrink_to_fit, a container function
+assign, a container function
+push_back, a container function
+push_front, a container function
+pop_back, a container function
+pop_front, a container function
+insert, a container function
+erase, a container function
+clear, a container function
+emplace, a container function
+emplace_front, a container function
+emplace_back, a container function
+resize, a container function
+splice, a container function
+unique, a container function
+merge, a container function
+sort, a container function
+reverse, a container function
+find, an associative container function
+count, an associative container function
+lower_bound, an associative container function
+upper_bound, an associative container function
+equal_range, an associative container function
+push, a container function
+pop, a container function
+top, a container function
+load_factor, an associative container function
+max_load_factor, an associative container function
+all_of, STL <algorithm> Non-modifying sequence operations
+any_of, STL <algorithm> Non-modifying sequence operations
+none_of, STL <algorithm> Non-modifying sequence operations
+for_each, STL <algorithm> Non-modifying sequence operations
+find, STL <algorithm> Non-modifying sequence operations
+find_if, STL <algorithm> Non-modifying sequence operations
+find_if_not, STL <algorithm> Non-modifying sequence operations
+find_end, STL <algorithm> Non-modifying sequence operations
+find_first_of, STL <algorithm> Non-modifying sequence operations
+adjacent_find, STL <algorithm> Non-modifying sequence operations
+count, STL <algorithm> Non-modifying sequence operations
+count_if, STL <algorithm> Non-modifying sequence operations
+mismatch, STL <algorithm> Non-modifying sequence operations
+equal, STL <algorithm> Non-modifying sequence operations
+is_permutation, STL <algorithm> Non-modifying sequence operations
+search, STL <algorithm> Non-modifying sequence operations
+search_n, STL <algorithm> Non-modifying sequence operations
+copy, STL <algorithm> Modifying sequence operations
+copy_n, STL <algorithm> Modifying sequence operations
+copy_if, STL <algorithm> Modifying sequence operations
+copy_backward, STL <algorithm> Modifying sequence operations
+move, STL <algorithm> Modifying sequence operations
+move_backward, STL <algorithm> Modifying sequence operations
+swap, STL <algorithm> Modifying sequence operations
+swap_ranges, STL <algorithm> Modifying sequence operations
+iter_swap, STL <algorithm> Modifying sequence operations
+transform, STL <algorithm> Modifying sequence operations
+replace, STL <algorithm> Modifying sequence operations
+replace_if, STL <algorithm> Modifying sequence operations
+replace_copy, STL <algorithm> Modifying sequence operations
+replace_copy_if, STL <algorithm> Modifying sequence operations
+fill, STL <algorithm> Modifying sequence operations
+fill_n, STL <algorithm> Modifying sequence operations
+generate, STL <algorithm> Modifying sequence operations
+generate_n, STL <algorithm> Modifying sequence operations
+remove, STL <algorithm> Modifying sequence operations
+remove_if, STL <algorithm> Modifying sequence operations
+remove_copy, STL <algorithm> Modifying sequence operations
+remove_copy_if, STL <algorithm> Modifying sequence operations
+unique, STL <algorithm> Modifying sequence operations
+unique_copy, STL <algorithm> Modifying sequence operations
+reverse, STL <algorithm> Modifying sequence operations
+reverse_copy, STL <algorithm> Modifying sequence operations
+rotate, STL <algorithm> Modifying sequence operations
+rotate_copy, STL <algorithm> Modifying sequence operations
+random_shuffle, STL <algorithm> Modifying sequence operations
+shuffle, STL <algorithm> Modifying sequence operations
+is_partitioned, STL <algotithm> Paritition
+partition, STL <algotithm> Paritition
+stable_partition, STL <algotithm> Paritition
+partition_copy, STL <algotithm> Paritition
+partition_point, STL <algotithm> Paritition
+sort, STL <algotithm> Sorting
+stable_sort, STL <algotithm> Sorting
+partial_sort, STL <algotithm> Sorting
+partial_sort_copy, STL <algotithm> Sorting
+is_sorted, STL <algotithm> Sorting
+is_sorted_until, STL <algotithm> Sorting
+nth_element, STL <algotithm> Sorting
+lower_bound, STL <algorithm> Binary search
+upper_bound, STL <algorithm> Binary search
+equal_range, STL <algorithm> Binary search
+binary_search, STL <algorithm> Binary search
+merge, STL <algorithm> Merge
+inplace_merge, STL <algorithm> Merge
+includes, STL <algorithm> Merge
+set_union, STL <algorithm> Merge
+set_intersection, STL <algorithm> Merge
+set_difference, STL <algorithm> Merge
+set_symmetric_difference, STL <algorithm> Merge
+push_heap, STL <algorithm> Heap
+pop_heap, STL <algorithm> Heap
+make_heap, STL <algorithm> Heap
+sort_heap, STL <algorithm> Heap
+is_heap, STL <algorithm> Heap
+is_heap_until, STL <algorithm> Heap
+min, STL <algorithm> Min/Max
+max, STL <algorithm> Min/Max
+minmax, STL <algorithm> Min/Max
+min_element, STL <algorithm> Min/Max
+max_element, STL <algorithm> Min/Max
+minmax_element, STL <algorithm> Min/Max
+lexicographical_compare, STL <algorithm>
+next_permutation, STL <algorithm> Min/Max
+prev_permutation, STL <algorithm> Min/Max
+size, a string member function
+length, a string attribute
+max_size, a string member function
+resize, a string member function
+capacity, a string member function
+reserve, a string member function
+clear, a string member function
+empty, a string member function
+shrink_to_fit, a string member function
+operator[], a string member function
+at, a string member function
+back, a string member function
+front, a string member function
+operator+=, a string member function
+append, a string member function
+push_back, a string member function
+assign, a string member function
+insert, a string member function
+erase, a string member function
+replace, a string member function
+swap, a string member function
+pop_back, a string member function
+c_str, a string member function
+data, a string member function
+get_allocator, a string member function
+copy, a string member function
+find, a string member function
+rfind, a string member function
+find_first_of, a string member function
+find_last_of, a string member function
+find_first_not_of, a string member function
+find_last_not_of, a string member function
+substr, a string member function
+compare, a string member function
+operator+, a string member function
+operator>>, a string member function
+operator<<, a string member function
+getline, a string member function
+stoi, STL <string>
+stol, STL <string>
+stoul, STL <string>
+stoll, STL <string>
+stoull, STL <string>
+stof, STL <string>
+stod, STL <string>
+stold, STL <string>
